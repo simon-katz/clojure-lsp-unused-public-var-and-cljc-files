@@ -1,0 +1,4 @@
+{:linters
+ {:clojure-lsp/unused-public-var
+  {:exclude
+   #{clojure-lsp-unused-public-var-and-cljc-files.my-cljc/foo-cljc}}}}
